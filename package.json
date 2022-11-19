@@ -10,7 +10,7 @@
     "react-dom": "^16.8.6",
     "react-fontawesome": "1.7.1",
     "react-paginate": "6.3.2",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
